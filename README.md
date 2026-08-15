@@ -245,10 +245,10 @@ The dashboard is designed to help identify:
 - Differences in delay rates across travel types
 
 # Technologies Used
-Microsoft Power BI
-Power Query
-DAX
-GitHub
-CSV dataset
+-Microsoft Power BI
+-Power Query
+-DAX
+-GitHub
+-CSV dataset
 
 ---
