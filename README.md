@@ -244,7 +244,11 @@ The dashboard is designed to help identify:
 - Satisfaction patterns across flight-distance categories
 - Differences in delay rates across travel types
 
-The final business conclusions are based on the results displayed in
-the Power BI dashboard.
+# Technologies Used
+Microsoft Power BI
+Power Query
+DAX
+GitHub
+CSV dataset
 
 ---
