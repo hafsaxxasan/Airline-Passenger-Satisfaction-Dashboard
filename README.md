@@ -54,6 +54,7 @@ and customer-experience decisions.
 8. What patterns exist between delays and passenger satisfaction?
 
 ---
+![Power BI Data](screenshots/precleaningdataset.png)
 
 # B. Power Query Transformations
 
@@ -112,7 +113,9 @@ based on departure delay.
 This supports simple KPI calculations such as the number and rate of
 delayed passengers.
 
+![Power BI Data query](screenshots/PowerQueryTransformations1.png)
 ---
+
 
 # C. Data Model
 
@@ -164,9 +167,9 @@ DAX functions used include:
 
 ### DAX Evidence
 
-![DAX Measures](screenshots/DAX_measures2.png)
-![DAX Measures](screenshots/DAX_measures2.png)
-![DAX Measures](screenshots/DAX_measures_3.png)
+![DAX Measures](screenshots/DAXmeasures2.png)
+![DAX Measures](screenshots/DAXmeasures2.png)
+![DAX Measures](screenshots/DAXmeasures_3.png)
 
 ---
 
@@ -190,7 +193,7 @@ It includes:
 - Satisfaction by travel type
 - Satisfaction by customer type
 
-![Executive Overview](screenshots/EXECUTIVE_OVERVIEW.png)
+![Executive Overview](screenshots/executiveoverview.png)
 
 ---
 
@@ -206,7 +209,7 @@ It includes:
 - Seat comfort by travel type
 - Cleanliness by customer type
 
-![Service Performance](screenshots/Service_performance.png)
+![Service Performance](screenshots/Serviceperformance.png)
 
 ---
 
