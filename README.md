@@ -169,7 +169,7 @@ DAX functions used include:
 
 ![DAX Measures](screenshots/DAXmeasures2.png)
 ![DAX Measures](screenshots/DAXmeasures2.png)
-![DAX Measures](screenshots/DAXmeasures_3.png)
+![DAX Measures](screenshots/DAXmeasures3.png)
 
 ---
 
